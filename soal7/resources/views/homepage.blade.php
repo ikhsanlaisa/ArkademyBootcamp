@@ -298,12 +298,6 @@
         });
     });
 </script>
-<script src="{{asset ('js/jquery-gmaps-latlon-picker.js')}}"></script>
-<script type="text/javascript"
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDEbva7PLXqdoX2LcIY6kvZjwpda5IsrnA"></script>
-<script>
-    $.gMapsLatLonPickerNoAutoInit = 1;
-</script>
 <script>
     function showModal(id) {
         document.getElementById('formEdit').action = "updatenama/" + id;
