@@ -1,7 +1,7 @@
 Note:
 Sebelumnya saya mohon maaf tidak bisa mangerjakan semuanya secara maksimal, soalnya lagi dijalan pulang kampung menggunakan mobil pribadi dari palu sulawesi tengah menuju gorontalo sulawesi utara dan itu menghabiskan waktu 15 jam. 
 
-Untuk nomad 7 saya menggunakan framework laravel, untuk editor bebas tapi disini saya menggunakan phpstorm. berikut ss aplikasi
+Untuk nomer 7 saya menggunakan framework laravel, untuk editor bebas tapi disini saya menggunakan phpstorm. berikut ss aplikasi
 
 
 <img width="1440" alt="Screen Shot 2019-06-29 at 19 35 25" src="https://user-images.githubusercontent.com/24959540/60385493-fadb2480-9ab3-11e9-9d31-98b43139d5c8.png">
